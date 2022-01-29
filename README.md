@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvishekVerma
-- 👀 I’m interested in Develoing new Software Projects.
+- 👀 I’m interested in Develoing new Software Solutions.
 - 🌱 I’m currently learning Full Stack Developement 
 - 💞️ I’m looking to collaborate on React JS
 - 📫 You can reach out to me using my mail - avishekverma298@gmail.com 
